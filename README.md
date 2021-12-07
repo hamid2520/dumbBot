@@ -1,0 +1,2 @@
+# dumbBot
+discord bot 
